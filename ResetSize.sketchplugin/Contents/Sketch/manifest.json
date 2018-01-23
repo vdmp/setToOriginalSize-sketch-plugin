@@ -1,0 +1,19 @@
+{
+    "name" : "Set to original size",
+
+    "identifier" : "me.vadimpleshkov.sketch.resetMaster",
+    "version" : "0.1",
+    "description" : "Set to original size with shortcut of choice",
+    "authorEmail" : "vadimpleshkov@gmail.com",
+    "author" : "Vadim",
+
+    "commands" : [
+    {
+      "script" : "resetter.js",
+      "handler" : "onRun",
+      "shortcut" : "command shift f",
+      "name" : "Set to ohiginal size",
+      "identifier" : "me.vadimpleshkov.sketch.resetMaster"
+    }
+  ]
+}
