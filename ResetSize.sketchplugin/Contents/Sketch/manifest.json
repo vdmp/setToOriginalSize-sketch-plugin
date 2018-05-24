@@ -12,7 +12,7 @@
       "script" : "resetter.js",
       "handler" : "onRun",
       "shortcut" : "command shift f",
-      "name" : "Set to ohiginal size",
+      "name" : "Set to original size",
       "identifier" : "me.vadimpleshkov.sketch.resetMaster"
     }
   ]
